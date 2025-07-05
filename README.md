@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=mdghousesaqlain&label=Profile%20views&color=0e75b6&style=flat" alt="mdghousesaqlain" />
 </p>
 
-- 🔭 I’m currently working on exciting projects at **[@ghousesaqlain](https://github.com/ghousesaqlain)**
-
 - 🌱 Learning in public: **Advanced System Design, Microservices & Scalable Backend Architecture**
 
 - 💬 Ask me about **React Native, React, PHP, Laravel, Node.js, MongoDB, MySQL, AWS**
@@ -14,6 +12,8 @@
 - 👨‍💻 Most of my work projects are on [github.com/ghousesaqlain](https://github.com/ghousesaqlain)
 
 - 📫 How to reach me: **mdghousesaqlain@gmail.com**
+  
+- 🔭 I’m currently working on exciting projects at **[@ghousesaqlain](https://github.com/ghousesaqlain)**
 
 - ⚡ Fun fact: I love turning caffeine into code ☕ and fixing bugs that I created at 2 AM.
 
