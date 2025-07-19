@@ -49,18 +49,6 @@
 
 ---
 
-### 💼 Work Contributions
-
-<p align="left">
-  🔧 I also contribute under my work profile → <a href="https://github.com/ghousesaqlain" target="_blank">@ghousesaqlain</a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghousesaqlain&show_icons=true&theme=default" alt="ghousesaqlain" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 <p align="left">
